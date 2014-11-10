@@ -2,3 +2,4 @@ dep
 tool
 output
 .idea
+.idea/*
